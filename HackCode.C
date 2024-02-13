@@ -3,7 +3,6 @@
 int main() {
     //hack the const value
 
-    //used by cheat engine
     
     const int tryChangingMe = 1000;
     printf("Const Value: %i",tryChangingMe);
